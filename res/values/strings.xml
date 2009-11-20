@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, text2alarm!</string>
+    <string name="app_name">Text2Alarm</string>
+<string name="alarm_received">受信</string>
+</resources>
